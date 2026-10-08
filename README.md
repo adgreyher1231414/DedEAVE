@@ -1,6 +1,5 @@
-# FedEAVE: modular PyTorch research reproduction
+# FedEAVE
 
-Implements the architecture described in the supplied FedEAVE manuscript: a causal Transformer assessment encoder, residual TCN behaviour encoder, weighted dense peer GAT, BiLSTM temporal encoder, projection heads, cross-source masked Transformer and reliability fusion, InfoNCE and conflict loss, directed prerequisite causal network, actor-critic, propensity-matched DiD, and sample-size-weighted FedAvg with a per-example DP-SGD-style training option.
 
 ## Run
 
